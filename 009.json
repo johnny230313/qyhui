@@ -17,7 +17,7 @@
   "sites": [
     {
       "key": "push_agent",
-      "name": "无法观看请点击「主页」查看",
+      "name": "无法观看请点击主页查看",
       "type": 3,
       "api": "csp_PushAgent",
       "searchable": 0,
@@ -47,7 +47,7 @@
     },
 {
   "key": "sss_www",
-  "name": " 关注公众号【全云惠惠享生活】",
+  "name": " 如已消费还未能正常使用",
   "type": 3,
   "api": "csp_ssswww",
   "searchable": 0,
@@ -57,7 +57,7 @@
     },
 {
   "key": "sss_wqw",
-  "name": " 如已消费还未能使用",
+  "name": " 微信【全云惠惠享生活】",
   "type": 3,
   "api": "csp_ssswqw",
   "searchable": 0,
