@@ -17,13 +17,63 @@
   "sites": [
     {
       "key": "push_agent",
-      "name": "您本月的免费使用权限已到期，请到全云惠商场消费满388原重新申请开通",
+      "name": "无法观看请点击「主页」查看",
       "type": 3,
       "api": "csp_PushAgent",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
       "ext": "6666666666666666"
+    },
+{
+      "key": "ggu_aap",
+      "name": "您的免费使用权限已到期",
+      "type": 3,
+      "api": "csp_gguaap",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "6666666666666666"
+    },
+{
+  "key": "msg_notify",
+  "name": " 请到按协议要求申请开通",
+  "type": 3,
+  "api": "csp_MsgNotify",
+  "searchable": 0,
+  "quickSearch": 0,
+  "filterable": 0,
+  "ext": "9999999999999999"
+    },
+{
+  "key": "sss_www",
+  "name": " 关注公众号【全云惠惠享生活】",
+  "type": 3,
+  "api": "csp_ssswww",
+  "searchable": 0,
+  "quickSearch": 0,
+  "filterable": 0,
+  "ext": "9999999999999999"
+    },
+{
+  "key": "sss_wQw",
+  "name": " 如已消费还未能使用",
+  "type": 3,
+  "api": "csp_ssswQw",
+  "searchable": 0,
+  "quickSearch": 0,
+  "filterable": 0,
+  "ext": "9999999999999999"
+    },
+{
+  "key": "sss_wQq",
+  "name": " 联系客服处理",
+  "type": 3,
+  "api": "csp_ssswQq",
+  "searchable": 0,
+  "quickSearch": 0,
+  "filterable": 0,
+  "ext": "9999999999999999"
     }
   ],
   "parses": [
