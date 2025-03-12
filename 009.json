@@ -16,10 +16,10 @@
   ],
   "sites": [
     {
-      "key": "push_agent",
-      "name": "无法观看请点击主页查看",
+      "key": "push_agenqt",
+      "name": "无法观看请点击本段文字查看",
       "type": 3,
-      "api": "csp_PushAgent",
+      "api": "csp_PushAgenqt",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
@@ -37,7 +37,7 @@
     },
 {
   "key": "msg_notify",
-  "name": " 请到按协议要求申请开通",
+  "name": " 请按照协议要求申请开通",
   "type": 3,
   "api": "csp_MsgNotify",
   "searchable": 0,
@@ -57,7 +57,7 @@
     },
 {
   "key": "sss_wqw",
-  "name": " 微信【全云惠惠享生活】",
+  "name": " 关公众号【全云惠惠享生活】",
   "type": 3,
   "api": "csp_ssswqw",
   "searchable": 0,
