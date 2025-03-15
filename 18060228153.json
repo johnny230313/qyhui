@@ -5,7 +5,7 @@
   "sites": [
 {
       "key": "潮流",
-      "name": "🏜┃潮流┃影视",
+      "name": "欢迎使用小林影视「安装调试/商业合作」均可联系",
       "type": 3,
       "api": "csp_AppRJ",
       "ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb"
@@ -211,10 +211,10 @@
   ],
   "lives": [
     {
-      "name": "小林直播推荐",
+      "name": "小林央卫直播",
       "type": 0,
       "playerType": 1,
-      "url": "https://codeberg.org/Johnny230313e6796017123ecc96a111d60616a9/qyhhxsh/raw/branch/main/001zbyuan.m3u8",
+      "url": "https://codeberg.org/Johnny230313e6796017123ecc96a111d60616a9/qyhui/raw/branch/main/zbyuan.m3u8",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
