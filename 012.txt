@@ -1,4 +1,4 @@
-🕘️更新时间,#genre#
+🕘️云霄综合,#genre#
 2025-05-30 16:32:18,https://live.zzyxxw.com:2443/live/xwzh.m3u8
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
