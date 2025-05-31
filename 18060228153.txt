@@ -1,4 +1,4 @@
-🕘️云霄综合,#genre#
+🕘️云霄电视台,#genre#
 更新时间2025-05-30,https://live.zzyxxw.com:2443/live/xwzh.m3u8
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -348,3 +348,9 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=04374bdde2e42237981
 厦门卫视,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226781/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 厦门卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8
 厦门卫视,https://stream1.freetv.fun/cc2a1fdd054d0069e308a8c5358596fe1ba08562b102d8223a3b02e620082f96.m3u8
+// 添加时间戳注释
+// Updated at 2025-05-31 08:30:00
+{
+  "key": "value"
+}
+
