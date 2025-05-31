@@ -1,9 +1,8 @@
-🕘️云霄电综合,#genre#
+🕘️云霄,#genre#
 更新时间2025-05-31,https://live.zzyxxw.com:2443/live/xwzh.m3u8
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
-
 CCTV-2,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588
 CCTV-2,https://smart.pendy.dpdns.org/Smart.php?id=cctv2
 CCTV-2,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8
@@ -357,7 +356,7 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=04374bdde2e42237981
 {
   "key": "value"
 }
-// Updated at 2025-05-31 10:22:43
+// Updated at 2025-05-31 10:43:43
 {
   "key": "value"
 }
