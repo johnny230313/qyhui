@@ -5,8 +5,21 @@
   "warningText": "欢迎使用全云惠影视，安装调试/商业定制均可联系",
   "sites": [
     {
-      "key": "白白",
+      "key": "天天影视",
       "name": "欢迎使用全云惠影视",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "jar": "http://我不是.摸鱼儿.top/by/jar/moyuer.php;md5;6807f17e4f3cf359cdbf4f942e438e1a",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://tt.ysdqjs.cn"
+      }
+    },
+{
+      "key": "白白",
+      "name": "白白┃蓝光┃秒播",
       "type": 3,
       "api": "csp_SbaibaiGuard",
       "playerType": 2,
@@ -16,7 +29,7 @@
     },
 {
       "key": "瓜子影视",
-      "name": "瓜子影视",
+      "name": "瓜子┃高清┃无广",
       "type": 3,
       "api": "csp_Gz360",
       "jar": "http://我不是.摸鱼儿.top/by/jar/moyuer.php;md5;6807f17e4f3cf359cdbf4f942e438e1a",
@@ -111,19 +124,7 @@
       "changeable": 1,
       "ext": "https://auete.com/"
     },
-    {
-      "key": "天天影视",
-      "name": "⛅️天天┃蓝光┃弹幕",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/moyuer.php;md5;6807f17e4f3cf359cdbf4f942e438e1a",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-        "url": "http://tt.ysdqjs.cn"
-      }
-    },
+    
     {
       "key": "浪酷影视",
       "name": "😎浪酷┃蓝光┃弹幕",
