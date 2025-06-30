@@ -5,8 +5,18 @@
   "warningText": "欢迎使用全云惠影视，安装调试/商业定制均可联系",
   "sites": [
     {
-      "key": "瓜子影视",
+      "key": "白白",
       "name": "欢迎使用全云惠影视",
+      "type": 3,
+      "api": "csp_SbaibaiGuard",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "瓜子影视",
+      "name": "瓜子影视",
       "type": 3,
       "api": "csp_Gz360",
       "jar": "http://我不是.摸鱼儿.top/by/jar/moyuer.php;md5;6807f17e4f3cf359cdbf4f942e438e1a",
@@ -40,27 +50,6 @@
       "changeable": 1
     },
     {
-      "key": "即看",
-      "name": "🐻即看┃多线┃纯净",
-      "type": 3,
-      "api": "csp_AppSxGuard",
-      "timeout": 10,
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "rfOX1voDIQhH8epBwtCFsub1+2maloq8lmJuL821WUsZJAZft2UtrrwhKK5Zxt1toWyFctBUmThhuDAjVuU="
-    },
-    {
-      "key": "白白",
-      "name": "🐭白白┃秒播┃纯净",
-      "type": 3,
-      "api": "csp_SbaibaiGuard",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "糯米",
       "name": "🍓糯米┃秒播┃纯净",
       "type": 3,
@@ -78,17 +67,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-    {
-      "key": "欢视",
-      "name": "👓欢视┃多线┃纯净",
-      "type": 3,
-      "api": "csp_AppTTGuard",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "uqGL1bNENExT9fFAy5mE5qU="
     },
     {
       "key": "热播",
@@ -169,14 +147,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=55"
-    },
-    {
-      "key": "面包影视",
-      "name": "🍞面包┃蓝光┃无广",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/moyuer.php;md5;6807f17e4f3cf359cdbf4f942e438e1a",
-      "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=面包"
     },
     {
       "key": "duanju",
@@ -520,7 +490,7 @@
     {
       "name": "全云惠电视直播",
       "type": 0,
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/johnny230313/tv/refs/heads/main/012.txt",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/johnny230313/tv/refs/heads/main/18060228153.txt",
       "playerType": 1,
       "ua": "okhttp/3.15"
     }
