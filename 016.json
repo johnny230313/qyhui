@@ -147,22 +147,22 @@
     {
       "name": "Json聚合",
       "type": 3,
-      "url": "Demo"
+      "url": "https://raw.githubusercontent.com/johnny230313/tv/refs/heads/main/016.txt"
     },
     {
       "name": "Web聚合",
       "type": 3,
-      "url": "Web"
+      "url": "https://raw.githubusercontent.com/johnny230313/tv/refs/heads/main/016.txt"
     },
     {
       "name": "qiyi[官源]",
       "type": 1,
-      "url": "http://39.104.230.177:1122/lxjx/myyk.php?url="
+      "url": "https://raw.githubusercontent.com/johnny230313/tv/refs/heads/main/016.txt"
     },
     {
       "name": "肥猫最可爱",
       "type": 1,
-      "url": "http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url=",
+      "url": "https://raw.githubusercontent.com/johnny230313/tv/refs/heads/main/016.txt",
       "ext": {
         "flag": [
           "qq",
@@ -200,7 +200,7 @@
       "name": "全云惠直播",
       "type": 0,
       "playerType": 1,
-      "url": "https://raw.githubusercontent.com/johnny230313/tv/refs/heads/main/016.json,
+      "url": "https://raw.githubusercontent.com/johnny230313/tv/refs/heads/main/016.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
