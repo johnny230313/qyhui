@@ -4,24 +4,20 @@
   "logo": "http://ceshi.xn--z7x900a.com/panda/0262.png",
   "sites": [
 {
-      "key": "潮流",
+      "key": "csp_LiteApple",
       "name": "欢迎使用全云惠影视",
       "type": 3,
-      "api": "csp_AppRJ",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb"
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
- {
+    {
       "key": "梦回",
       "name": "🏈┃梦回┃影视",
       "type": 3,
       "api": "csp_AppRJ",
       "ext": "sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM"
-    },
- {
-      "key": "csp_Jpys",
-      "name": "🥇️┃金牌┃影视",
-      "type": 3,
-      "api": "csp_Jpys"
     },
 {
       "key": "csp_Wwys",
@@ -29,22 +25,6 @@
       "type": 3,
       "api": "csp_Wwys",
       "ext": "https://www.wwgz.cn"
-    },
-{
-      "key": "csp_Qiyou",
-      "name": "🥝┃奇优┃影视",
-      "type": 3,
-      "api": "csp_Qiyou",
-      "ext": "http://www.dyxz2.com/"
-    },
-{
-      "key": "csp_LiteApple",
-      "name": "🍎┃苹果┃影视",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
 {
       "key": "csp_AppXY",
@@ -66,13 +46,6 @@
         "type": "rect",
         "ratio": 1.333
       }
-    },
-{
-      "key": "csp_Dm84",
-      "name": "🤣┃动漫┃巴士",
-      "type": 3,
-      "playerType": "2",
-      "api": "csp_Dm84"
     },
 {
       "key": "儿童",
