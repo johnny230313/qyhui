@@ -4,9 +4,20 @@
   "logo": "https://s1.imagehub.cc/images/2024/06/11/80538bfb3835ffebf7c5fd0716280801.jpeg",
   "warningText": "欢迎使用全云惠影视，安装调试/商业定制均可联系",
   "sites": [
-    {
-      "key": "天天影视",
+       {
+      "key": "五五影视",
       "name": "欢迎使用全云惠影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "http://我不是.摸鱼儿.top/by/jar/moyuer.php;md5;6807f17e4f3cf359cdbf4f942e438e1a",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=55"
+    },
+ {
+      "key": "天天影视",
+      "name": "😭天天┃蓝光┃无广",
       "type": 3,
       "api": "csp_AppRJ",
       "jar": "http://我不是.摸鱼儿.top/by/jar/moyuer.php;md5;6807f17e4f3cf359cdbf4f942e438e1a",
@@ -137,17 +148,6 @@
       "ext": {
         "url": "http://v.lkuys.cn"
       }
-    },
-    {
-      "key": "五五影视",
-      "name": "😭呜呜┃蓝光┃无广",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/moyuer.php;md5;6807f17e4f3cf359cdbf4f942e438e1a",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=55"
     },
     {
       "key": "duanju",
