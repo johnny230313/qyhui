@@ -15,32 +15,6 @@
       "filterable": 1
     },
  {
-      "key": "榴莲",
-      "name": "🌀榴莲┃超清┃弹幕",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet2",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php;md5;3422b9456765fbcb969faafefc980c24",
-      "ext": {
-        "url": "https://qjappcms.ll4k.xyz",
-        "dataKey": "1yGA85sJ5STtE7uj",
-        "dataIv": "1yGA85sJ5STtE7uj",
-        "deviceId": "",
-        "version": "50000"
-      }
-    },
-{
-      "key": "五五影视",
-      "name": "🌀呜呜┃超清┃无广",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/moyuer.php;md5;6807f17e4f3cf359cdbf4f942e438e1a",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=55"
-    },
- {
       "key": "雄鹰",
       "name": "🌀雄鹰┃超清┃弹幕",
       "type": 3,
@@ -68,35 +42,6 @@
         "dataIv": "apiapplbyskey168",
         "deviceId": "",
         "version": "107"
-      }
-    },
-{
-      "key": "趣看",
-      "name": "🌀趣看┃超清┃弹幕",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppMuou",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php;md5;3422b9456765fbcb969faafefc980c24",
-      "ext": {
-        "url": "https://xjuzi.top",
-        "dataKey": "6a482a70b80eefc9",
-        "dataIv": "c995826a3e86fedd",
-        "jxurl": "https://www.ququkan.cc"
-      }
-    },
- {
-      "key": "桃子",
-      "name": "🌀桃子┃超清┃弹幕",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php;md5;3422b9456765fbcb969faafefc980c24",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://appcms.tzys.xyz",
-        "dataKey": "KL6vlZkw6WL5x90U",
-        "dataIv": "KL6vlZkw6WL5x90U",
-        "deviceId": "4b4c36766c5a6b7736574c3578393055",
-        "version": "119"
       }
     },
  {
@@ -135,21 +80,6 @@
         "dataIv": "2015692015692015",
         "deviceId": "",
         "version": "300"
-      }
-    },
-{
-      "key": "雨滴",
-      "name": "🌀雨滴┃超清┃弹幕",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php;md5;3422b9456765fbcb969faafefc980c24",
-      "ext": {
-        "url": "https://c8w2ov7u5wg2z1o8p21c.aliyuncs.click:27899",
-        "dataKey": "k9o3p2c8b7m3z0o8",
-        "dataIv": "k9o3p2c8b7m3z0o8",
-        "deviceId": "",
-        "version": "100"
       }
     },
 {
