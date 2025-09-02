@@ -1,259 +1,237 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1750152746722/f0617.jpg;md5;9b4406d5c1de4d695db13d5f771a835a",
-  "wallpaper": "https://深色壁纸.xxooo.cf/",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740652967925/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311",
+  "wallpaper": "http://ceshi.xn--z7x900a.com/ppic/feimao.php",
+  "logo": "http://ceshi.xn--z7x900a.com/panda/0262.png",
   "sites": [
-    {
-      "key": "原创",
+{
+      "key": "csp_LiteApple",
       "name": "欢迎使用全云惠影视",
       "type": 3,
-      "api": "csp_YCyzGuard",
-      "timeout": 30,
-      "playerType": 1,
+      "api": "csp_LiteApple",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "filterable": 1
     },
 {
-      "key": "文采",
-      "name": "💮文采┃秒播",
+      "key": "csp_Xlys",
+      "name": "🏔️┃修罗┃磁力",
       "type": 3,
-      "api": "csp_JpysGuard",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
+      "api": "csp_Xlys",
+      "ext": "https://xl01.com.de"
     },
-    {
-      "key": "苹果",
-      "name": "🍎苹果┃不卡",
+{
+      "key": "河马短剧",
+      "name": "🦛┃河马┃短剧",
       "type": 3,
-      "api": "csp_LiteAppleGuard",
-      "timeout": 15,
+      "api": "https://gitee.com/PizazzXS/another-d/raw/master/movie/py/HMDJ.py",
       "searchable": 1,
+      "changeable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "filterable": 1,
+      "playerType": 2
+    },
+{
+      "key": "csp_Bili",
+      "name": "🅱┃️哔哩┃合集",
+      "type": 3,
+      "api": "csp_Bili",
+      "playerType": 2,
+      "ext": {
+        "json": "http://uz.xn--z7x900a.com/bili.json",
+        "cookie": ""
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      }
     },
  {
-      "key": "糯米",
-      "name": "🍓糯米┃秒播",
-      "type": 3,
-      "api": "csp_NmyswvGuard",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-{
-      "key": "白白",
-      "name": "🐟白白┃秒播",
-      "type": 3,
-      "api": "csp_SbaibaiGuard",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-{
-      "key": "低端",
-      "name": "⏮️低端┃外剧",
-      "type": 3,
-      "api": "csp_DdrkGuard",
-      "timeout": 15,
-      "playerType": "2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-{
-      "key": "热播",
-      "name": "📺热播┃多线",
-      "type": 3,
-      "api": "csp_AppTTGuard",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "uqGL1bNENExT7/hGxpSE5qU="
-    },
- {
-      "key": "欢视",
-      "name": "👓欢视┃多线",
-      "type": 3,
-      "api": "csp_AppTTGuard",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "uqGL1bNENExT9fFAy5mE5qU="
-    },
-{
       "key": "MTV",
-      "name": "🎧明星┃MV",
+      "name": "🎧┃明星┃MV",
       "type": 3,
-      "api": "csp_BiliGuard",
+      "api": "csp_Bili",
+      "playerType": 2,
+      "ext": {
+        "json": "https://img2.gelonghui.com/library/2b4eb-8fb08a6b-f9f1-48d8-816a-1bc712a85fefnull",
+        "cookie": ""
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      }
+    },
+{
+      "key": "儿童",
+      "name": "📚┃儿童┃启蒙",
+      "type": 3,
+      "api": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
       "style": {
         "type": "rect",
         "ratio": 1.597
       },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099584ed490195f7bf50ac60b9"
-      }
+      "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js"
     },
-{
-      "key": "88",
-      "name": "⚽88┃看球",
+    {
+      "key": "csp_少儿",
+      "name": "📚┃少儿┃教育",
       "type": 3,
-      "api": "csp_Sir88Guard",
-      "timeout": 15,
-      "searchable": 0,
-      "changeable": 0,
+      "api": "csp_Bili",
+      "playerType": 2,
+      "ext": {
+        "json": "https://img2.gelonghui.com/library/1903b-eb0f1675-2437-4e72-bcf0-427b1626d79fnull",
+        "cookie": ""
+      },
       "style": {
-        "type": "list"
+        "type": "rect",
+        "ratio": 1.333
       }
     },
     {
-      "key": "Aid",
-      "name": "🚑急救┃教学",
+      "key": "csp_小学",
+      "name": "📚┃小学┃课堂",
       "type": 3,
-      "api": "csp_FirstAidGuard",
+      "api": "csp_Bili",
+      "playerType": 2,
+      "ext": {
+        "json": "https://img2.gelonghui.com/library/a1140-144855fe-3eaa-44f3-b689-6812c233de54null",
+        "cookie": ""
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      }
+    },
+    {
+      "key": "csp_初中",
+      "name": "📚┃初中┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "playerType": 2,
+      "ext": {
+        "json": "https://img2.gelonghui.com/library/ba156-73e16cad-8257-4f33-b8c0-e051e72e546dnull",
+        "cookie": ""
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      }
+    },
+    {
+      "key": "csp_高中",
+      "name": "📚┃高中┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "playerType": 2,
+      "ext": {
+        "json": "https://img2.gelonghui.com/library/e44b3-4a82ab48-e014-49b2-bb66-ee5207e8f195null",
+        "cookie": ""
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      }
+    },
+    {
+      "key": "csp_FirstAid",
+      "name": "🚑┃急救┃教学",
+      "type": 3,
+      "api": "csp_FirstAid",
       "searchable": 0,
       "quickSearch": 0,
-      "changeable": 0,
       "style": {
         "type": "rect",
         "ratio": 3.8
+      },
+      "gridview": "0-0-4.1"
+    },
+{
+      "key": "MTV",
+      "name": "🎧┃明星┃MV",
+      "type": 3,
+      "api": "csp_Bili",
+      "playerType": 2,
+      "ext": {
+        "json": "https://img2.gelonghui.com/library/2b4eb-8fb08a6b-f9f1-48d8-816a-1bc712a85fefnull",
+        "cookie": ""
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
       }
     },
 {
-      "key": "Bili",
-      "name": "🅱哔哔合集┃弹幕",
+      "key": "push_agent",
+      "name": "关注公众号：全云惠",
       "type": 3,
-      "api": "csp_BiliGuard",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce40194194e5a5f7474"
-      }
-    },
-    {
-      "key": "Biliych",
-      "name": "🅱哔哔演唱会┃弹幕",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce40194194f4eb2747e"
-      }
-    },
-    {
-      "key": "少儿教育",
-      "name": "📚少儿┃教育",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
+      "api": "csp_Push",
+      "playerType": "1",
       "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce4019465168f841292"
-      }
-    },
-    {
-      "key": "小学课堂",
-      "name": "📚小学┃课堂",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bb42128a"
-      }
-    },
-    {
-      "key": "初中课堂",
-      "name": "📚初中┃课堂",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bb2d1289"
-      }
-    },
-    {
-      "key": "高中教育",
-      "name": "📚高中┃课堂",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bd90128b"
-      }
-    },
-    {
-      "key": "fan",
-      "name": "欢迎使用全云惠影视",
-      "type": 3,
-      "api": "csp_XPathGuard",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "cc",
-      "name": "请勿相信视频中广告",
-      "type": 3,
-      "api": "csp_XPathGuard",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0
+      "ext": ".json/txt/ken.txt"
     }
   ],
- "logo": "https://cdn.wmpvp.com/steamWeb/B96F868DE45B45D690B5F9F490D0BC60-1745866248445.gif",
+  "parses": [
+    {
+      "name": "Json聚合",
+      "type": 3,
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/johnny230313/tv/refs/heads/main/18050074799.txt"
+    },
+    {
+      "name": "Web聚合",
+      "type": 3,
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/johnny230313/tv/refs/heads/main/18050074799.txt"
+    },
+    {
+      "name": "qiyi[官源]",
+      "type": 1,
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/johnny230313/tv/refs/heads/main/18050074799.txt"
+    },
+    {
+      "name": "肥猫最可爱",
+      "type": 1,
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/johnny230313/tv/refs/heads/main/18050074799.txt",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "tucheng",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "yzm",
+          "aliyun",
+          "RJuMao",
+          "bilibili",
+          "1905",
+          "xinvip",
+          "XAL",
+          "qiqi",
+          "XALS",
+          "YuMi-vip"
+        ]
+      }
+    }
+  ],
   "lives": [
     {
-      "name": "全云惠直播台",
+      "name": "全云惠直播",
       "type": 0,
+      "playerType": 1,
       "url": "https://gh-proxy.com/raw.githubusercontent.com/johnny230313/tv/refs/heads/main/18050074799.txt",
-      "playerType": 2,
-      "logo": "https://11.112114.xyz/logo/{name}.png"
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ]
 }
