@@ -4,14 +4,6 @@
   "warningText": "欢迎使用全云惠影视服务",
   "lives": [
     {
-      "name": "全云惠直播",
-      "type": 0,
-      "url": "url": https://gh-proxy.com/raw.githubusercontent.com/johnny230313/tv/refs/heads/main/13159159191.txt",
-      "playerType": 1
-    }
-  ],
-  "sites": [
-{
       "key": "巧技",
       "name": "全云惠影视",
       "type": 3,
@@ -22,26 +14,8 @@
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/714c5f6aa89af46f/071.png;md5;9cf0a6c1f62ad83e9dccc2b7dd683a10",
       "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
     },
-{
-      "key": "瓜子影视",
-      "name": "🔥瓜子┃影视",
-      "type": 3,
-      "api": "csp_Gz360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-{
-      "key": "柠檬",
-      "name": "🔥柠檬┃影视",
-      "type": 3,
-      "api": "csp_Nmvod",
-      "playerType": 2,
-      "jar": "https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E",
-      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
-    },
-{
-"key": "浪酷影视",
+    {
+      "key": "浪酷影视",
       "name": "🔥浪酷｜影视",
       "type": 3,
       "api": "csp_AppRJ",
@@ -52,14 +26,14 @@
         "url": "http://v.lkuys.cn"
       }
     },
-{
+    {
       "key": "荐片",
       "name": "🔥荐片┃磁力",
       "api": "csp_Jianpian",
       "type": 3,
       "ext": "https://api.ztcgi.com"
     },
- {
+    {
       "key": "五八",
       "name": "🔥五八丨APP",
       "type": 3,
@@ -75,7 +49,7 @@
         "ua": ""
       }
     },
- {
+    {
       "key": "火狐",
       "name": "🔥火狐丨APP",
       "type": 3,
@@ -91,7 +65,7 @@
         "ua": ""
       }
     },
- {
+    {
       "key": "骚火影视",
       "name": "🔥骚火┃影视",
       "type": 3,
@@ -99,14 +73,50 @@
       "playerType": 2,
       "ext": "https://shdy5.us"
     },
-{
+    {
+      "key": "瓜子影视",
+      "name": "🔥瓜子┃影视",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "柠檬",
+      "name": "🔥柠檬┃影视",
+      "type": 3,
+      "api": "csp_Nmvod",
+      "playerType": 2,
+      "jar": "https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E",
+      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
+    },
+    {
+      "key": "瓜子影视",
+      "name": "🔥瓜子┃影视",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "糯米影视",
       "name": "🔥糯米┃影视",
       "type": 3,
       "api": "csp_Wwys",
       "ext": "https://www.wwgz.cn"
     },
-{
+    {
+      "key": "苹果影视",
+      "name": "🔥苹果┃影视",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "哔哩少儿",
       "name": "🅰少儿┃哔哩",
       "type": 3,
@@ -168,23 +178,6 @@
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
         "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/高中课堂.json"
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },
-    {
-      "key": "口才",
-      "name": "🧒口才┃儿童",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": {
-        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/儿童口才.json"
       },
       "style": {
         "type": "rect",
@@ -480,9 +473,14 @@
         "ratio": 1.597
       }
     },
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
+    },
     {
       "key": "push_agent",
-      "name": "公众号：全云惠",
+      "name": "公众号「全云惠」",
       "type": 3,
       "filterable": 0,
       "changeable": 0,
