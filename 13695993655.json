@@ -125,8 +125,8 @@
       "filterable": 1
     },
     {
-      "key": "哔哩少儿",
-      "name": "🅰少儿┃哔哩",
+      "key": "学习少儿",
+      "name": "🅰少儿┃学习",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -143,7 +143,7 @@
     },
     {
       "key": "️小学",
-      "name": "🅰️小学┃哔哩",
+      "name": "🅰️小学┃学习",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -160,7 +160,7 @@
     },
     {
       "key": "️初中",
-      "name": "🅰️初中┃哔哩",
+      "name": "🅰️初中┃学习",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -177,7 +177,7 @@
     },
     {
       "key": "️高中",
-      "name": "🅰️高中┃哔哩",
+      "name": "🅰️高中┃学习",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -262,7 +262,7 @@
     },
     {
       "key": "科学",
-      "name": "🧒科学┃哔哩",
+      "name": "🧒科学┃学习",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -279,7 +279,7 @@
     },
     {
       "key": "国学",
-      "name": "🧒国学┃哔哩",
+      "name": "🧒国学┃学习",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -296,7 +296,7 @@
     },
     {
       "key": "地理",
-      "name": "🧒地理┃哔哩",
+      "name": "🧒地理┃学习",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -313,7 +313,7 @@
     },
     {
       "key": "编程",
-      "name": "🧒编程┃哔哩",
+      "name": "🧒编程┃学习",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -330,7 +330,7 @@
     },
     {
       "key": "武术",
-      "name": "🧒武术┃哔哩",
+      "name": "🧒武术┃学习",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -347,7 +347,7 @@
     },
     {
       "key": "csp_BBB",
-      "name": "🅱️套餐┃哔哩",
+      "name": "🅱️套餐┃学习",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -355,7 +355,7 @@
       "filterable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/哔哩套餐1.json"
+        "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/学习套餐1.json"
       },
       "style": {
         "type": "rect",
@@ -364,7 +364,7 @@
     },
     {
       "key": "csp_111BB",
-      "name": "🅱️套餐2┃哔哩",
+      "name": "🅱️套餐2┃学习",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -372,7 +372,7 @@
       "filterable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/哔哩套餐2.json"
+        "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/学习套餐2.json"
       },
       "style": {
         "type": "rect",
@@ -381,7 +381,7 @@
     },
     {
       "key": "歌曲",
-      "name": "🌈歌曲┃哔哩",
+      "name": "🌈歌曲┃学习",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -398,7 +398,7 @@
     },
     {
       "key": "美食",
-      "name": "🌈美食┃哔哩",
+      "name": "🌈美食┃学习",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -449,7 +449,7 @@
     },
     {
       "key": "️演唱",
-      "name": "🅰️演唱┃哔哩",
+      "name": "🅰️演唱┃学习",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -466,7 +466,7 @@
     },
     {
       "key": "️戏曲",
-      "name": "🅰️戏曲┃哔哩",
+      "name": "🅰️戏曲┃学习",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -482,25 +482,8 @@
       }
     },
     {
-      "key": "影视影视",
-      "name": "🅰影视┃哔哩",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/合集.json"
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },
-    {
       "key": "push_agent",
-      "name": "🛴推送┃播放接口免费，请测试完删除处理",
+      "name": "公众号「全云惠」",
       "type": 3,
       "filterable": 0,
       "changeable": 0,
