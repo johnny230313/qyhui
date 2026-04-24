@@ -1,7 +1,6 @@
 {
   "spider": "http://47.120.41.246:8025/vip/jar/ouge.php",
   "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
-//   "warningText": "仅作学习交流测试使用，配置或下载后请于24小时之内删除",
   "lives": [
     {
       "name": "全云惠平台直播",
@@ -28,7 +27,6 @@
             "searchable": 1,
             "changeable": 1
         },
-//小米
     {
       "key": "csp_Music",
       "name": "🎵MUSIC┃听歌",
@@ -48,7 +46,6 @@
       "ext": "https://vip.wwgz.cn:5200",
       "jar":"http://47.120.41.246:8025/vip/jar/xiaomi.php"
     },
-//欧歌
     {
       "key": "荐片",
       "name": "🔥荐片┃磁力",
@@ -68,8 +65,6 @@
         "url": "http://v.rbotv.cn"
       }
     },
-   
-   
     {
       "key": "火狐",
       "name": "🔥火狐丨APP",
@@ -110,8 +105,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-//讴歌    
-    
     {
       "key": "柠檬",
       "name": "🔥柠檬┃影视",
@@ -121,7 +114,6 @@
       "jar": "https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E",
       "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
-
     {
       "key": "瓜子影视",
       "name": "🔥瓜子┃影视",
@@ -140,7 +132,6 @@
       "searchable": 1,
       "changeable": 1
     },
-//潇洒
     {
       "key": "哔哩哔哩小品",
       "name": "🌈哔哩｜小品",
@@ -175,9 +166,6 @@
         "ratio": 1.597
       }
     },
-
-
-
    {
       "key": "哔哩少儿",
       "name": "🅰少儿┃哔哩",
@@ -569,11 +557,6 @@
         "ratio": 1.597
       }
     },
-
-
-
-
-
     {
       "key": "push_agent",
       "name": "公众号「全云惠」",
@@ -585,7 +568,6 @@
       "quickSearch": 0,
       "ext": ""
     }
-
   ],
   "parses": [
     {
