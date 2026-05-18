@@ -6,14 +6,14 @@
     {
       "name": "全云惠平台直播",
       "type": 0,
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/johnny230313/tv/refs/heads/main/001.txt",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/johnny230313/tv/refs/heads/main/005.txt",
       "playerType": 1
     }
   ],
   "sites": [
     {
             "key": "电影先生",
-            "name": "🔥电影┃先生",
+            "name": "全云惠影视",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/jar/xyqxbpq.jar",
@@ -38,16 +38,17 @@
                 "分类url": "https://silidm.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
                 "分类": "电影$dianying#剧集$juji#动漫$dongman#综艺$zongyi"
             }
+        },
     {
       "key": "腾腾",
-      "name": "🐧腾腾┃JX",
+      "name": "全云惠┃腾腾",
       "type": 3,
       "api": "http://rihou.cc:88/js/drpy2.min.js",
       "ext": "http://rihou.cc:88/js/腾腾.js"
     },
 {
       "key": "csp_Wwys",
-      "name": "农民┃影视",
+      "name": "全云惠┃农民",
       "type": 3,
       "api": "csp_Wwys",
       "ext": "https://vip.wwgz.cn:5200",
@@ -55,7 +56,7 @@
     },
     {
       "key": "骚火影视",
-      "name": "酷吧┃影视",
+      "name": "全云惠┃酷吧",
       "type": 3,
       "api": "csp_SaoHuo",
       "playerType": 2,
@@ -63,7 +64,7 @@
     },
     {
       "key": "柠檬",
-      "name": "柠檬┃影视",
+      "name": "全云惠┃柠檬",
       "type": 3,
       "api": "csp_Nmvod",
       "playerType": 2,
@@ -72,7 +73,7 @@
     },
 {
       "key": "金牌影视",
-      "name": "金牌┃影视",
+      "name": "全云惠┃金牌",
       "type": 3,
       "api": "csp_Jpys",
       "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
