@@ -11,15 +11,14 @@
     }
   ],
   "sites": [
-    {
-      "key": "csp_Gz360",
+{
+      "key": "柠檬",
       "name": "全云惠影视",
       "type": 3,
-      "timeout": 12,
-      "searchable": 1,
-      "quickSearch": 0,
-      "api": "csp_Gz360",
-      "jar":"http://47.120.41.246:8025/vip/jar/xiaomi.php"
+      "api": "csp_Nmvod",
+      "playerType": 2,
+      "jar": "https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E",
+      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
 {
             "key": "电影先生",
@@ -49,15 +48,6 @@
                 "分类": "电影$dianying#剧集$juji#动漫$dongman#综艺$zongyi"
             }
         },
-{
-      "key": "柠檬",
-      "name": "全云惠┃柠檬",
-      "type": 3,
-      "api": "csp_Nmvod",
-      "playerType": 2,
-      "jar": "https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E",
-      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
-    },
 {
       "key": "麦田",
       "name": "全云惠┃麦田",
