@@ -12,23 +12,45 @@
   ],
   "sites": [
 {
-			"key": "听心99",
-			"name": "全云惠影视",
-			"type": 3,
-			"api": "csp_App99",
-			"ext": {
-				"host": "https://api.12321app.com/api",
-				"LoginPath": "/app/log",
-				"version": "0b4328287a5d953e",
-				"appkey": "a0a18659a9977a47e53442cd084b536c",
-				"versionName": "2.8.1",
-				"name": "听心视频",
-				"package": "com.iksp.adsys.jjsp",
-				"buildNumber": "2001",
-				"buildSignature": "03DD38CE4C3D62D0F0DEFACC06768D14EB382C7BD77A05B2EBF4D66E154A0D47"
-			},
+            "key": "天堂",
+            "name": "全云惠影视",
+            "type": 3,
+            "api": "csp_AppDrama",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "appName": "电影天堂",
+                "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+                "dataKey": "D2KREWRIBVNAUJJYEDL4VFHOY2Q0PQ==",
+                "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+                "commonKey": "ed5fdsgucxumegqa",
+                "pkg": "com.dytiantang.one",
+                "host": "",
+                "site": "https://dyttandroid04-1372779881.cos.ap-shanghai.myqcloud.com/app_dyttandroid.txt",
+                "version": "3.0.0.7",
+                "decrypt": "0"
+            },
       "jar": "http://47.120.41.246:8025/vip/jar/xiaomi.php"
-		},
+        },
+{
+            "key": "新首发",
+            "name": "全云惠┃首发",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/603.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0",
+      "jar": "http://47.120.41.246:8025/vip/jar/xiaomi.php"
+        },
+{
+      "key": "csp_Gz360",
+      "name": "全云惠┃瓜子",
+      "type": 3,
+      "timeout": 12,
+      "searchable": 1,
+      "quickSearch": 0,
+      "api": "csp_Gz360",
+      "jar": "http://47.120.41.246:8025/vip/jar/xiaomi.php"
+    },
 {
       "key": "3QQQ",
       "name": "全云惠┃大鹅",
@@ -45,23 +67,6 @@
 			"api": "csp_AppGet",
 			"ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/602.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0",
       "jar": "http://47.120.41.246:8025/vip/jar/xiaomi.php"
-    },
-{
-      "key": "闪影",
-      "name": "全云惠┃秒播",
-      "type": 3,
-      "api": "csp_AppYs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod",
-      "categories": [
-        "电影",
-        "剧集",
-        "短剧",
-        "综艺",
-        "动漫"
-      ]
     },
 {
       "key": "柠檬",
@@ -136,6 +141,24 @@
     },
 {"key": "csp_XYQHiker_兔小贝","name":"🐰兔小贝","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/ymz1231/json/-/raw/main/兔小贝.json","jar": "https://jihulab.com/ymz1231/jar/-/raw/main/ymz.jar"}, 
    {"key": "csp_XYQHiker_兔小贝2","name":"🐰兔小贝2","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/ymz1231/json/-/raw/main/兔小贝2.json","jar": "https://jihulab.com/ymz1231/jar/-/raw/main/ymz.jar"},
+{
+      "key": "csp_Bili",
+      "name": "📺哔哩┃哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "quickSearch": 0,
+      "timeout": 12,
+      "searchable": 1,
+      "ext": {
+        "json": "https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/db3b02559ec04736/bili.json",
+        "cookie": ""
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      },
+      "jar": "http://47.120.41.246:8025/vip/jar/xiaomi.php"
+    },
     {
       "key": "push_agent",
       "name": "公众号「全云惠」",
