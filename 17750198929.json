@@ -27,6 +27,61 @@
       "jar": "http://47.120.41.246:8025/vip/jar/xiaomi.php"
         },
 {
+      "key": "金牌影视",
+      "name": "全云惠┃金牌",
+      "type": 3,
+      "api": "csp_Jpys",
+      "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn",
+      "jar": "http://47.120.41.246:8025/vip/jar/xiaosa.php"
+    },
+    {
+      "key": "剧圈99",
+      "name": "全云惠┃剧圈",
+      "type": 3,
+      "api": "csp_App99",
+      "ext": {
+        "host": "http://124.221.3.182:19987/app/bn",
+        "appkey": "d1f0c269eab74d93821fffc9befdbbba",
+        "versionName": "1.2.0",
+        "name": "剧圈圈",
+        "package": "com.qingtangxiaozhuan.xyz",
+        "buildNumber": "2002",
+        "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
+      },
+      "jar": "http://47.120.41.246:8025/vip/jar/xiaosa.php"
+    },
+    {
+      "key": "华谊",
+      "name": "全云惠┃华谊",
+      "type": 3,
+      "api": "csp_AppDrama",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "appName": "华谊",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCp9Ek4wIlQAtwFnuBRlsFiow2tr+4UOciGeNKbY7nL74etUqUb6fvpOSOHhFEfaWlfwUpOB17x3JEL3No19nfjCeVYrYPjlJcgoqUWH/tfIfFAQWvtxBIBlKazkhw8d3ChysWmeWRikKqkBsVRY4oqNPuj4sjm6Zult0U4I4prRQIDAQAB",
+        "dataKey": "NDBYSZR1DMRRZ05NSUCWEJNIYWLBPT0=",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.muyue.tool",
+        "host": "",
+        "site": "https://vip.123pan.cn/1851089669/oss/az5.txt",
+        "version": "1.0.0.4",
+        "decrypt": "1"
+      },
+      "jar": "http://47.120.41.246:8025/vip/jar/xiaosa.php"
+    },
+    {
+      "key": "一起影视",
+      "name": "全云惠┃一起",
+      "type": 3,
+      "api": "csp_AppYQK",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "http://47.120.41.246:8025/vip/jar/xiaosa.php"
+    },
+{
       "key": "csp_Gz360",
       "name": "全云惠┃瓜子",
       "type": 3,
@@ -35,6 +90,80 @@
       "quickSearch": 0,
       "api": "csp_Gz360",
       "jar": "http://47.120.41.246:8025/vip/jar/xiaomi.php"
+    },
+{
+      "key": "半日99",
+      "name": "全云惠┃半日",
+      "type": 3,
+      "api": "csp_App99",
+      "ext": {
+        "host": "http://103.217.190.91:19987/app/bn",
+        "appkey": "24d625a8a29b4700a1a294c6f3b29e2c",
+        "versionName": "3.5.8",
+        "name": "半日闲",
+        "package": "com.yf.lelian",
+        "buildNumber": "2001",
+        "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
+      },
+      "jar": "http://47.120.41.246:8025/vip/jar/xiaosa.php"
+    },
+    {
+      "key": "天堂",
+      "name": "全云惠┃天堂",
+      "type": 3,
+      "api": "csp_AppDrama",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "appName": "电影天堂",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+        "dataKey": "D2KREWRIBVNAUJJYEDL4VFHOY2Q0PQ==",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.dytiantang.one",
+        "host": "",
+        "site": "https://dyttandroid04-1372779881.cos.ap-shanghai.myqcloud.com/app_dyttandroid.txt",
+        "version": "3.0.0.7",
+        "decrypt": "0"
+      },
+      "jar": "http://47.120.41.246:8025/vip/jar/xiaosa.php"
+    },
+    {
+      "key": "蓝鹰",
+      "name": "全云惠┃蓝鹰",
+      "type": 3,
+      "api": "csp_AppQi",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "http://103.217.190.91:5566",
+        "dataKey": "hagYExMdMkeWfemK",
+        "dataIv": "hagYExMdMkeWfemK",
+        "init": "initV122",
+        "ua": "okhttp/3.10.0"
+      },
+      "jar": "http://47.120.41.246:8025/vip/jar/xiaosa.php"
+    },
+{
+      "key": "茉莉",
+      "name": "全云惠┃茉莉",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": "https://allinadmin.oss-cn-hangzhou.aliyuncs.com/bk/9.txt",
+        "dataKey": "88689667dce61725",
+        "dataIv": "88689667dce61725"
+      },
+      "jar": "http://47.120.41.246:8025/vip/jar/xiaosa.php"
+    },
+{
+      "key": "独播影视",
+      "name": "全云惠┃独播",
+      "type": 3,
+      "api": "csp_Duboku",
+      "jar": "http://47.120.41.246:8025/vip/jar/xiaosa.php"
     },
 {
       "key": "csp_Wwys",
@@ -66,23 +195,6 @@
             },
       "jar": "http://47.120.41.246:8025/vip/jar/xiaomi.php"
         },
-{
-      "key": "3QQQ",
-      "name": "全云惠┃大鹅",
-      "type": 3,
-      "timeout": 15,
-      "api": "csp_App3Q",
-      "ext": "https://asd123sx23xdacsx.top",
-      "jar": "http://47.120.41.246:8025/vip/jar/xiaomi.php"
-    },
-{
-			"key": "新首发",
-			"name": "全云惠┃标清",
-			"type": 3,
-			"api": "csp_AppGet",
-			"ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/602.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0",
-      "jar": "http://47.120.41.246:8025/vip/jar/xiaomi.php"
-    },
 {
       "key": "柠檬",
       "name": "全云惠┃柠檬",
@@ -143,217 +255,8 @@
       "api": "csp_Jpys",
       "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
     },
- {
-      "key": "csp_Music",
-      "name": "🎵MUSIC┃听歌",
-      "type": 3,
-      "api": "csp_Music",
-      "quickSearch": 0,
-      "timeout": 12,
-      "searchable": 0,
-      "ext": "",
-      "jar":"http://47.120.41.246:8025/vip/jar/xiaomi.php"
-    },
 {"key": "csp_XYQHiker_兔小贝","name":"🐰兔小贝","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/ymz1231/json/-/raw/main/兔小贝.json","jar": "https://jihulab.com/ymz1231/jar/-/raw/main/ymz.jar"}, 
    {"key": "csp_XYQHiker_兔小贝2","name":"🐰兔小贝2","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/ymz1231/json/-/raw/main/兔小贝2.json","jar": "https://jihulab.com/ymz1231/jar/-/raw/main/ymz.jar"},
-{
-      "key": "csp_Bili",
-      "name": "📺哔哩┃哔哩",
-      "type": 3,
-      "api": "csp_Bili",
-      "quickSearch": 0,
-      "timeout": 12,
-      "searchable": 1,
-      "ext": {
-        "json": "https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/db3b02559ec04736/bili.json",
-        "cookie": ""
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.333
-      },
-      "jar": "http://47.120.41.246:8025/vip/jar/xiaomi.php"
-    },
-{
-            "key": "哔哩合集",
-            "name": "全云惠┃合集",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.433
-            },
-            "ext": {
-                "json": "https://jk.catvod.site/jk/t4/bili_home.json"
-            },
-      "jar": "http://47.120.41.246:8025/vip/jar/feimao.php"
-        },
-        {
-            "key": "哔哩哔哩演唱会",
-            "name": "全云惠┃演唱会",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": {
-                "json": "https://jk.catvod.site/jk/t4/bili_music.json"
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-      "jar": "http://47.120.41.246:8025/vip/jar/feimao.php"
-        },
-        {
-            "key": "哔哩哔哩听书",
-            "name": "全云惠┃听书",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": {
-                "json": "https://jk.catvod.site/jk/t4/bili_tingshu.json"
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-      "jar": "http://47.120.41.246:8025/vip/jar/feimao.php"
-        },
-        {
-            "key": "哔哩哔哩相声",
-            "name": "全云惠┃相声",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": {
-                "json": "https://jk.catvod.site/jk/t4/bili_xiangsheng.json"
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-      "jar": "http://47.120.41.246:8025/vip/jar/feimao.php"
-        },
-        {
-            "key": "哔哩哔哩小品",
-            "name": "全云惠┃小品",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": {
-                "json": "https://jk.catvod.site/jk/t4/bili_xiaopin.json"
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-      "jar": "http://47.120.41.246:8025/vip/jar/feimao.php"
-        },
-        {
-            "key": "哔哩哔哩戏曲",
-            "name": "全云惠┃戏曲",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": {
-                "json": "https://jk.catvod.site/jk/t4/bili_xiqu.json"
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-      "jar": "http://47.120.41.246:8025/vip/jar/feimao.php"
-        },
-        {
-            "key": "少儿教育",
-            "name": "全云惠┃少儿",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": {
-                "json": "https://jk.catvod.site/jk/t4/bili_edu_child.json"
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-      "jar": "http://47.120.41.246:8025/vip/jar/feimao.php"
-        },
-        {
-            "key": "小学课堂",
-            "name": "全云惠┃小学",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": {
-                "json": "https://jk.catvod.site/jk/t4/bili_edu_primary.json"
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-      "jar": "http://47.120.41.246:8025/vip/jar/feimao.php"
-        },
-        {
-            "key": "初中课堂",
-            "name": "全云惠┃初中",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": {
-                "json": "https://jk.catvod.site/jk/t4/bili_edu_middle.json"
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-      "jar": "http://47.120.41.246:8025/vip/jar/feimao.php"
-        },
-        {
-            "key": "高中课堂",
-            "name": "全云惠┃高中",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": {
-                "json": "https://jk.catvod.site/jk/t4/bili_edu_high.json"
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-      "jar": "http://47.120.41.246:8025/vip/jar/feimao.php"
-        },
     {
       "key": "push_agent",
       "name": "公众号「全云惠」",
