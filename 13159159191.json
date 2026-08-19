@@ -12,14 +12,6 @@
   ],
   "sites": [
 {
-            "key": "新首发",
-            "name": "全云惠影视",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/603.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0",
-      "jar": "http://47.120.41.246:8025/vip/jar/xiaomi.php"
-        },
-{
             "key": "csp_PianKu8",
             "name": "全云惠┃山楂",
             "type": 3,
@@ -69,16 +61,6 @@
         "version": "1.0.0.4",
         "decrypt": "1"
       },
-      "jar": "http://47.120.41.246:8025/vip/jar/xiaosa.php"
-    },
-    {
-      "key": "一起影视",
-      "name": "全云惠┃一起",
-      "type": 3,
-      "api": "csp_AppYQK",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
       "jar": "http://47.120.41.246:8025/vip/jar/xiaosa.php"
     },
 {
@@ -141,20 +123,6 @@
         "dataIv": "hagYExMdMkeWfemK",
         "init": "initV122",
         "ua": "okhttp/3.10.0"
-      },
-      "jar": "http://47.120.41.246:8025/vip/jar/xiaosa.php"
-    },
-{
-      "key": "茉莉",
-      "name": "全云惠┃茉莉",
-      "type": 3,
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "https://allinadmin.oss-cn-hangzhou.aliyuncs.com/bk/9.txt",
-        "dataKey": "88689667dce61725",
-        "dataIv": "88689667dce61725"
       },
       "jar": "http://47.120.41.246:8025/vip/jar/xiaosa.php"
     },
@@ -232,14 +200,6 @@
                 "分类": "电影$dianying#剧集$juji#动漫$dongman#综艺$zongyi"
             }
         },
-{
-      "key": "麦田",
-      "name": "全云惠┃麦田",
-      "type": 3,
-      "api": "csp_AppV6",
-      "ext": "http://172.247.227.203:25321/mtys.php",
-      "jar":"http://47.120.41.246:8025/vip/jar/xiaomi.php"
-    },
     {
       "key": "骚火影视",
       "name": "全云惠┃酷吧",
@@ -255,9 +215,54 @@
       "api": "csp_Jpys",
       "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
     },
+{
+      "key":"feifan",
+      "name":"全云惠┃非凡",
+      "type":1,
+      "api":"http://ffzy5.tv/api.php/provide/vod",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "categories":[
+        "韩国剧",
+        "欧美剧",
+        "台湾剧",
+        "战争片",
+        "国产剧",
+        "大陆综艺",
+      ],
+      "hide":1
+    },
+    {
+      "key":"ruyi",
+      "name":"全云惠┃如意",
+      "type":1,
+      "api":"https://cj.rycjapi.com/api.php/provide/vod",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "categories":[
+        "韩国剧",
+        "欧美剧",
+        "台湾剧",
+        "战争片",
+        "国产剧",
+        "大陆综艺",
+      ],
+      "hide":1
+    },
 {"key": "csp_XYQHiker_兔小贝","name":"🐰兔小贝","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/ymz1231/json/-/raw/main/兔小贝.json","jar": "https://jihulab.com/ymz1231/jar/-/raw/main/ymz.jar"}, 
    {"key": "csp_XYQHiker_兔小贝2","name":"🐰兔小贝2","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/ymz1231/json/-/raw/main/兔小贝2.json","jar": "https://jihulab.com/ymz1231/jar/-/raw/main/ymz.jar"},
     {
+      "key":"戏曲多多",
+      "name":"🤡┃戏曲┃多多",
+      "type":3,
+      "api":"csp_AppLY",
+      "style":{
+        "type":"list"
+      }
+    },
+{
       "key": "push_agent",
       "name": "公众号「全云惠」",
       "type": 3,
