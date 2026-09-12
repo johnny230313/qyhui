@@ -3,7 +3,7 @@
   "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
   "warningText": "欢迎使用全云惠影视服务",
   "lives": [
-    {
+ {
       "key":"华谊",
       "name":"🍁┃华谊┃APP",
       "type":3,
@@ -24,7 +24,7 @@
       },
       "hide":1
     },
-    {
+ {
       "key":"热播影视",
       "name":"🍁┃热播┃APP",
       "type":3,
@@ -37,7 +37,7 @@
       },
       "hide":1
     },
-{
+ {
       "key":"剧圈99",
       "name":"🍁┃剧圈┃APP",
       "type":3,
@@ -53,7 +53,7 @@
       },
       "hide":1
     },
-    {
+ {
       "key":"天堂",
       "name":"🍁┃天堂┃APP",
       "type":3,
@@ -74,7 +74,7 @@
       },
       "hide":1
     },
-    {
+ {
       "key":"苹果",
       "name":"🍁┃苹果┃APP",
       "type":3,
@@ -95,7 +95,7 @@
       },
       "hide":1
     },
-    {
+ {
       "key":"爱看机器人",
       "name":"🍁┃爱看┃有广",
       "type":3,
@@ -104,30 +104,19 @@
       "quickSearch":1,
       "filterable":1
     },
-    {
+ {
       "key":"瓜子影视",
       "name":"🍁┃瓜子┃影视",
       "type":3,
       "api":"csp_Gz360"
     },
-    {
+ {
       "key":"独播影视",
       "name":"🍁┃独播┃影视",
       "type":3,
       "api":"csp_Duboku"
     },
-{"key": "csp_XYQHiker_兔小贝","name":"🐰兔小贝","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/ymz1231/json/-/raw/main/兔小贝.json","jar": "https://jihulab.com/ymz1231/jar/-/raw/main/ymz.jar"}, 
-   {"key": "csp_XYQHiker_兔小贝2","name":"🐰兔小贝2","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/ymz1231/json/-/raw/main/兔小贝2.json","jar": "https://jihulab.com/ymz1231/jar/-/raw/main/ymz.jar"},
-    {
-      "key":"戏曲多多",
-      "name":"全云惠┃戏曲",
-      "type":3,
-      "api":"csp_AppLY",
-      "style":{
-        "type":"list"
-      }
-    },
-{
+ {
       "key":"feifan",
       "name":"🍀┃非凡┃资源",
       "type":1,
@@ -145,7 +134,7 @@
       ],
       "hide":1
     },
-    {
+ {
       "key":"戏曲多多",
       "name":"🤡┃戏曲┃多多",
       "type":3,
@@ -154,7 +143,7 @@
         "type":"list"
       }
     },
-        {
+ {
             "key": "戏 曲",
             "name": "🎈┃国粹┃戏曲",
             "type": 3,
@@ -165,7 +154,7 @@
             "ext": "https://z.qiqiv.cn/666/json/Blixq.json",
             "jar":"https://z.qiqiv.cn/666/spider.jar"
         },
-        {
+ {
             "key": "相声小品",
             "name": "🏮┃相声┃小品",
             "type": 3,
@@ -176,7 +165,7 @@
             "ext": "https://z.qiqiv.cn/666/json/Blixs.json",
             "jar":"https://z.qiqiv.cn/666/spider.jar"
         },
-        {
+ {
             "key": "演唱会",
             "name": "🎸┃演唱会┃MV",
             "type": 3,
@@ -187,7 +176,7 @@
             "ext": "https://z.qiqiv.cn/666/json/演唱会.json",
             "jar":"https://z.qiqiv.cn/666/spider.jar"
         },
-        {
+ {
             "key": "MTV",
             "name": "🎧┃明星┃MV",
             "type": 3,
@@ -198,7 +187,7 @@
             "ext": "https://z.qiqiv.cn/666/json/MTV.json",
             "jar":"https://z.qiqiv.cn/666/spider.jar"
         },
-        {
+ {
             "key": "哔哩哔哩",
             "name": "🅱┃️哔哩┃大全",
             "type": 3,
@@ -209,7 +198,7 @@
             "ext": "https://z.qiqiv.cn/666/json/Bili.json",
             "jar":"https://z.qiqiv.cn/666/spider.jar"
         },
-        {
+ {
             "key": "csp_Bili短剧",
             "name": "🅱️┃哔哩┃短剧",
             "type": 3,
@@ -218,17 +207,6 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "https://z.qiqiv.cn/666/json/Bili短剧.json",
-            "jar":"https://z.qiqiv.cn/666/spider.jar"
-        },
-        {
-            "key": "影视解说",
-            "name": "🎬┃影视┃解说",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://z.qiqiv.cn/666/json/影视解说.json",
             "jar":"https://z.qiqiv.cn/666/spider.jar"
         },
 {
