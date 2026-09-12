@@ -11,7 +11,7 @@
     }
   ],
   "sites": [
- {
+{
       "key":"华谊",
       "name":"🍁┃华谊┃APP",
       "type":3,
@@ -32,7 +32,7 @@
       },
       "hide":1
     },
- {
+    {
       "key":"热播影视",
       "name":"🍁┃热播┃APP",
       "type":3,
@@ -45,7 +45,7 @@
       },
       "hide":1
     },
- {
+    {
       "key":"剧圈99",
       "name":"🍁┃剧圈┃APP",
       "type":3,
@@ -61,7 +61,7 @@
       },
       "hide":1
     },
- {
+    {
       "key":"天堂",
       "name":"🍁┃天堂┃APP",
       "type":3,
@@ -82,7 +82,7 @@
       },
       "hide":1
     },
- {
+    {
       "key":"苹果",
       "name":"🍁┃苹果┃APP",
       "type":3,
@@ -103,7 +103,7 @@
       },
       "hide":1
     },
- {
+    {
       "key":"爱看机器人",
       "name":"🍁┃爱看┃有广",
       "type":3,
@@ -112,19 +112,34 @@
       "quickSearch":1,
       "filterable":1
     },
- {
+    {
       "key":"瓜子影视",
       "name":"🍁┃瓜子┃影视",
       "type":3,
       "api":"csp_Gz360"
     },
- {
+    {
       "key":"独播影视",
       "name":"🍁┃独播┃影视",
       "type":3,
       "api":"csp_Duboku"
     },
- {
+    {
+      "key":"荐片",
+      "name":"🍁┃荐片┃磁力",
+      "api":"csp_JianPian",
+      "type":3
+    },
+    {
+      "key":"世界听书",
+      "name":"🎵┃世界┃听书",
+      "type":3,
+      "api":"csp_TingShijie",
+      "style":{
+        "type":"list"
+      }
+    },
+    {
       "key":"feifan",
       "name":"🍀┃非凡┃资源",
       "type":1,
@@ -142,17 +157,34 @@
       ],
       "hide":1
     },
- {
+    {
+      "key":"ruyi",
+      "name":"🍀┃如意┃资源",
+      "type":1,
+      "api":"https://cj.rycjapi.com/api.php/provide/vod",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "categories":[
+        "韩国剧",
+        "欧美剧",
+        "台湾剧",
+        "战争片",
+        "国产剧",
+        "大陆综艺",
+      ],
+      "hide":1
+    },
+    {
       "key":"戏曲多多",
       "name":"🤡┃戏曲┃多多",
       "type":3,
       "api":"csp_AppLY",
       "style":{
         "type":"list"
-      },
+      }
     },
-
- {
+        {
             "key": "戏 曲",
             "name": "🎈┃国粹┃戏曲",
             "type": 3,
@@ -163,7 +195,7 @@
             "ext": "https://z.qiqiv.cn/666/json/Blixq.json",
             "jar":"https://z.qiqiv.cn/666/spider.jar"
         },
- {
+        {
             "key": "相声小品",
             "name": "🏮┃相声┃小品",
             "type": 3,
@@ -174,7 +206,7 @@
             "ext": "https://z.qiqiv.cn/666/json/Blixs.json",
             "jar":"https://z.qiqiv.cn/666/spider.jar"
         },
- {
+        {
             "key": "演唱会",
             "name": "🎸┃演唱会┃MV",
             "type": 3,
@@ -185,7 +217,7 @@
             "ext": "https://z.qiqiv.cn/666/json/演唱会.json",
             "jar":"https://z.qiqiv.cn/666/spider.jar"
         },
- {
+        {
             "key": "MTV",
             "name": "🎧┃明星┃MV",
             "type": 3,
@@ -196,7 +228,7 @@
             "ext": "https://z.qiqiv.cn/666/json/MTV.json",
             "jar":"https://z.qiqiv.cn/666/spider.jar"
         },
- {
+        {
             "key": "哔哩哔哩",
             "name": "🅱┃️哔哩┃大全",
             "type": 3,
@@ -207,7 +239,7 @@
             "ext": "https://z.qiqiv.cn/666/json/Bili.json",
             "jar":"https://z.qiqiv.cn/666/spider.jar"
         },
- {
+        {
             "key": "csp_Bili短剧",
             "name": "🅱️┃哔哩┃短剧",
             "type": 3,
