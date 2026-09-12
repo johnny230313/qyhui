@@ -9,9 +9,15 @@
     }
   ],
   "sites": [
-    {
+     {
+      "key":"瓜子影视",
+      "name":"全云惠影视",
+      "type":3,
+      "api":"csp_Gz360"
+    },
+{
       "key":"华谊",
-      "name":"🍁┃华谊┃APP",
+      "name":"全云惠┃华谊",
       "type":3,
       "api":"csp_AppDrama",
       "searchable":1,
@@ -32,7 +38,7 @@
     },
     {
       "key":"热播影视",
-      "name":"🍁┃热播┃APP",
+      "name":"全云惠┃热播",
       "type":3,
       "api":"csp_AppRJ",
       "searchable":1,
@@ -43,9 +49,18 @@
       },
       "hide":1
     },
+{
+      "key": "柠檬",
+      "name": "全云惠┃柠檬",
+      "type": 3,
+      "api": "csp_Nmvod",
+      "playerType": 2,
+      "jar": "https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E",
+      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
+    },
     {
       "key":"剧圈99",
-      "name":"🍁┃剧圈┃APP",
+      "name":"全云惠┃剧圈",
       "type":3,
       "api":"csp_App99",
       "ext":{
@@ -61,7 +76,7 @@
     },
     {
       "key":"天堂",
-      "name":"🍁┃天堂┃APP",
+      "name":"全云惠┃天堂",
       "type":3,
       "api":"csp_AppDrama",
       "searchable":1,
@@ -82,7 +97,7 @@
     },
     {
       "key":"苹果",
-      "name":"🍁┃苹果┃APP",
+      "name":"全云惠┃苹果",
       "type":3,
       "api":"csp_AppDrama",
       "searchable":1,
@@ -102,35 +117,14 @@
       "hide":1
     },
     {
-      "key":"爱看机器人",
-      "name":"🍁┃爱看┃有广",
-      "type":3,
-      "api":"csp_Ikanbot",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1
-    },
-    {
-      "key":"瓜子影视",
-      "name":"🍁┃瓜子┃影视",
-      "type":3,
-      "api":"csp_Gz360"
-    },
-    {
       "key":"独播影视",
-      "name":"🍁┃独播┃影视",
+      "name":"全云惠┃独播",
       "type":3,
       "api":"csp_Duboku"
     },
     {
-      "key":"荐片",
-      "name":"🍁┃荐片┃磁力",
-      "api":"csp_JianPian",
-      "type":3
-    },
-    {
       "key":"世界听书",
-      "name":"🎵┃世界┃听书",
+      "name":"全云惠┃听书",
       "type":3,
       "api":"csp_TingShijie",
       "style":{
@@ -140,7 +134,7 @@
 
     {
       "key":"feifan",
-      "name":"🍀┃非凡┃资源",
+      "name":"全云惠┃非凡",
       "type":1,
       "api":"http://ffzy5.tv/api.php/provide/vod",
       "searchable":1,
@@ -157,26 +151,8 @@
       "hide":1
     },
     {
-      "key":"ruyi",
-      "name":"🍀┃如意┃资源",
-      "type":1,
-      "api":"https://cj.rycjapi.com/api.php/provide/vod",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "categories":[
-        "韩国剧",
-        "欧美剧",
-        "台湾剧",
-        "战争片",
-        "国产剧",
-        "大陆综艺",
-      ],
-      "hide":1
-    },
-    {
       "key":"戏曲多多",
-      "name":"🤡┃戏曲┃多多",
+      "name":"全云惠┃戏曲",
       "type":3,
       "api":"csp_AppLY",
       "style":{
@@ -186,7 +162,7 @@
 
         {
             "key": "戏 曲",
-            "name": "🎈┃国粹┃戏曲",
+            "name": "全云惠┃国粹",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -197,7 +173,7 @@
         },
         {
             "key": "相声小品",
-            "name": "🏮┃相声┃小品",
+            "name": "全云惠┃相声",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -208,7 +184,7 @@
         },
         {
             "key": "演唱会",
-            "name": "🎸┃演唱会┃MV",
+            "name": "全云惠┃演唱会",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -219,7 +195,7 @@
         },
         {
             "key": "MTV",
-            "name": "🎧┃明星┃MV",
+            "name": "全云惠┃明星",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -230,7 +206,7 @@
         },
         {
             "key": "哔哩哔哩",
-            "name": "🅱┃️哔哩┃大全",
+            "name": "全云惠┃️哔哩",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -241,7 +217,7 @@
         },
         {
             "key": "csp_Bili短剧",
-            "name": "🅱️┃哔哩┃短剧",
+            "name": "全云惠┃短剧",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -252,7 +228,7 @@
         },
         {
             "key": "影视解说",
-            "name": "🎬┃影视┃解说",
+            "name": "全云惠┃解说",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -267,7 +243,7 @@
 
     {
       "key": "push_agent",
-      "name": "资源加载更新....",
+      "name": "公众号「全云惠」",
       "type": 3,
       "filterable": 0,
       "changeable": 0,
