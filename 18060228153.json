@@ -9,7 +9,7 @@
     }
   ],
   "sites": [
-     {
+    {
       "key":"瓜子影视",
       "name":"全云惠影视",
       "type":3,
@@ -48,15 +48,6 @@
         "url":"http://v.rbotv.cn"
       },
       "hide":1
-    },
-{
-      "key": "柠檬",
-      "name": "全云惠┃柠檬",
-      "type": 3,
-      "api": "csp_Nmvod",
-      "playerType": 2,
-      "jar": "https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E",
-      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
     {
       "key":"剧圈99",
@@ -117,6 +108,15 @@
       "hide":1
     },
     {
+      "key":"爱看机器人",
+      "name":"全云惠┃爱看",
+      "type":3,
+      "api":"csp_Ikanbot",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },
+    {
       "key":"独播影视",
       "name":"全云惠┃独播",
       "type":3,
@@ -124,7 +124,7 @@
     },
     {
       "key":"世界听书",
-      "name":"全云惠┃听书",
+      "name":"🎵┃世界┃听书",
       "type":3,
       "api":"csp_TingShijie",
       "style":{
@@ -134,7 +134,7 @@
 
     {
       "key":"feifan",
-      "name":"全云惠┃非凡",
+      "name":"🍀┃非凡┃资源",
       "type":1,
       "api":"http://ffzy5.tv/api.php/provide/vod",
       "searchable":1,
@@ -226,21 +226,7 @@
             "ext": "https://z.qiqiv.cn/666/json/Bili短剧.json",
             "jar":"https://z.qiqiv.cn/666/spider.jar"
         },
-        {
-            "key": "影视解说",
-            "name": "全云惠┃解说",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://z.qiqiv.cn/666/json/影视解说.json",
-            "jar":"https://z.qiqiv.cn/666/spider.jar"
-        },
-
-
-
-
+       
     {
       "key": "push_agent",
       "name": "公众号「全云惠」",
