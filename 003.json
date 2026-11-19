@@ -53,6 +53,21 @@
       },
       "hide":1
     },
+    "91md.me": {
+      "name": "🔞麻豆视频",
+      "api": "https://91md.me/api.php/provide/vod",
+      "detail": "https://91md.me"
+    },
+    "155zy2.com": {
+      "name": "🔞155-资源",
+      "api": "https://155api.com/api.php/provide/vod",
+      "detail": "https://155zy2.com"
+    },
+    "apiyutu.com": {
+      "name": "🔞玉兔资源",
+      "api": "https://apiyutu.com/api.php/provide/vod",
+      "detail": "https://apiyutu.com"
+    },
     {
       "key":"天堂",
       "name":"全云惠┃天堂",
