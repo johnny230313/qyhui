@@ -371,17 +371,6 @@
       "api": "https://caiji.semaozy.net/inc/apijson_vod.php/provide/vod",
       "detail": "https://semaozy1.com"
     },
-    "aosikazy.com": {
-      "_comment": "禁止搜索结果",
-      "name": "🔞-奥斯卡-",
-      "api": "https://aosikazy.com/api.php/provide/vod",
-      "detail": "https://aosikazy.com"
-    }
-  }
-},
-
-
-
     {
       "key": "push_agent",
       "name": "公众号「全云惠」",
